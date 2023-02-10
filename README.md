@@ -1,4 +1,5 @@
-## Este repositorio e para uso exclusivo para estudo
+## Este projeto foi criado pelo celke 
+estou usando para estudo
 
 COMO RODAR O PROJETO BAIXADO
 Instalar todas as dependencias indicada pelo package.json
